@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone 
+    git clone https://github.com/dindarahma706/Website-Sistem-Informasi-Perpustakaan.git
 ```
 
 change current directory
