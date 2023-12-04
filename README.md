@@ -19,7 +19,7 @@ Xampp or other server app
 1. Open your terminal and navigate to any folder to put the project
 2. clone the repository
    
-   git clone [https://github.com/levina13/Jobs.git]
+   git clone [https://github.com/dindarahma706/MyLib-Library-Management-System.git]
 
 4. navigate to the project directory
    
